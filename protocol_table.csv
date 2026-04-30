@@ -1,0 +1,14 @@
+=== PROTOCOL TABLE ===
+Protocol,Packet count
+TCP,10
+UDP,5
+ARP,3
+UNKNOWN,2
+
+=== IP TABLE ===
+IP Address,Packet count,Protocols
+192.168.1.2,10,"TCP: 6, UDP: 4"
+192.168.1.1,8,TCP: 8
+
+=== ATTACKS DETECTED ===
+No attacks detected.
